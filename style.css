@@ -1,0 +1,62 @@
+nav{
+    position: sticky;
+    top: 6px;
+}
+a{
+    color: antiquewhite;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    color: antiquewhite;
+    font-size: 20px;
+    
+}
+
+body{
+    background-image:url('./images/123.jpg.jpg');
+    background-size: 1000px;
+    
+}
+#a1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+#a2{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+#a3{
+    color: red;
+}
+#a4{
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 10px;
+}
+input{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;box-sizing: border-box;
+    border-radius: 10px;
+}
+#a5{
+    margin: 8px 0;box-sizing: border-box;
+    padding: 12px 20px;
+    border-radius: 20px;
+}
+button{
+    padding: 12px 20px;
+    color: black;
+    background-color:skyblue;
+    border-radius: 20px;
+    box-shadow: 25px 25px 25px white;
+}
+footer{
+    font-size: 15px;
+    padding: 10px;
+    color: antiquewhite;
+}
